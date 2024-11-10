@@ -1,5 +1,5 @@
 
-### 🇹🇷 "SistersInCode" Hakkında
+### "SistersInCode" Hakkında
 
 Biz, SistersInCode olarak, hayatın farklı yönlerine dokunan bilgi ve tecrübelerimizi paylaşmayı hedefleyen iki mühendisiz. 💻 Bilgisayar mühendisliği, programlama, veri bilimi ve yapay zeka gibi alanlardaki teknik bilgi birikimimizi paylaşırken, insanlara yalnızca mesleki anlamda değil, aynı zamanda verimli, bilinçli ve manevi olarak da ilham vermeyi arzuluyoruz. 🌱 Bu sayfa, aynı zamanda bizim de öğrenme ve gelişim yolculuğumuzun bir parçası. Kendimizi geliştirirken, başkalarına faydalı olmanın, onların hayatlarına dokunmanın bizler için ne kadar anlamlı olduğuna inanıyoruz. 🌟
 
@@ -25,7 +25,7 @@ Bu yolculukta amacımız, bilgi ve tecrübemizle insanlara dokunarak, onların h
 
 ---
 
-### 🇬🇧 About "SistersInCode"
+### About "SistersInCode"
 
 We, as SistersInCode, are two engineers aiming to share our knowledge and experiences that touch different aspects of life. 💻 While sharing our technical expertise in fields such as computer engineering, programming, data science, and artificial intelligence, we aspire to inspire people not only professionally but also in a productive, mindful, and spiritual way. 🌱 This page is also part of our journey of learning and growth. We believe in the significance of contributing to others and touching their lives while developing ourselves. 🌟
 
