@@ -1,6 +1,8 @@
-### "SistersInCode" Hakkında
+<div style="border: 2px solid #cccccc; padding: 20px; border-radius: 10px; background-color: #f9f9f9; max-width: 800px; margin: auto;">
 
-Biz, SistersInCode olarak, hayatın farklı yönlerine dokunan bilgi ve tecrübelerimizi paylaşmayı hedefleyen iki mühendisiz. 💻 Bilgisayar mühendisliği, programlama, veri bilimi ve yapay zeka gibi alanlardaki teknik bilgi birikimimizi paylaşırken, insanlara yalnızca mesleki anlamda değil, aynı zamanda verimli, bilinçli ve manevi olarak da ilham vermeyi arzuluyoruz. 🌱 Bu sayfa, aynı zamanda bizim de öğrenme ve gelişim yolculuğumuzun bir parçası. Kendimizi geliştirirken, başkalarına faydalı olmanın, onların hayatlarına dokunmanın bizler için ne kadar anlamlı olduğuna inanıyoruz. 🌟
+<h2 align="center">### SistersInCode Hakkında</h2>
+
+<p align="center">Biz, SistersInCode olarak, hayatın farklı yönlerine dokunan bilgi ve tecrübelerimizi paylaşmayı hedefleyen iki mühendisiz. 💻 Bilgisayar mühendisliği, programlama, veri bilimi ve yapay zeka gibi alanlardaki teknik bilgi birikimimizi paylaşırken, insanlara yalnızca mesleki anlamda değil, aynı zamanda verimli, bilinçli ve manevi olarak da ilham vermeyi arzuluyoruz. 🌱 Bu sayfa, aynı zamanda bizim de öğrenme ve gelişim yolculuğumuzun bir parçası. Kendimizi geliştirirken, başkalarına faydalı olmanın, onların hayatlarına dokunmanın bizler için ne kadar anlamlı olduğuna inanıyoruz. 🌟</p>
 
 ✨ **İlham Kaynağımız**  
 İlham kaynağımız, insanları geliştirmek ve onlara faydalı olabilmek. Bildiklerimizi paylaşarak, ilgi duyan herkese rehberlik etmek, onlara yol gösteren bir ışık olabilmek en büyük amacımız. Teknolojiyi ve bilimi, İslami değerlerimizle harmanlayarak, hem bu dünya hem de öteki için verimli olmayı ve zamanımızı değerli kılmayı hedefliyoruz. 🌍💡
@@ -10,23 +12,9 @@ Bu yolculukta amacımız, bilgi ve tecrübemizle insanlara dokunarak, onların h
 
 ---
 
-### 🧑‍💻 Kısaca Biz Kimiz?
+<h2 align="center">### About "SistersInCode"</h2>
 
-- **👩‍🎓 Melek Kuru**: 2019 yılında Başkent Üniversitesi Bilgisayar Mühendisliği bölümünden mezun oldum. Yüksek lisans eğitimimi 2023-2024 yıllarında University of Essex’te Veri Bilimi alanında tamamladım. 🎓
-
-- **👩‍🎓 Aysu Demir**: Ben de 2019 yılında Başkent Üniversitesi Bilgisayar Mühendisliği bölümünden mezun oldum. 2021-2022 yıllarında Barcelona School of Economics’te Veri Bilimi alanında yüksek lisansımı yaptım. 🎓
-
----
-
-### 💫 Neden Buradayız?
-
-İnsanların gelişimine katkıda bulunmak, onlara ilham vermek ve yolculuklarına eşlik etmek bizler için çok değerli. SistersInCode olarak, bir yandan kendimizi geliştirirken, bir yandan da başkalarına fayda sağlama arzumuzla yola çıkıyoruz. ✨
-
----
-
-### About "SistersInCode"
-
-We, as SistersInCode, are two engineers aiming to share our knowledge and experiences that touch different aspects of life. 💻 While sharing our technical expertise in fields such as computer engineering, programming, data science, and artificial intelligence, we aspire to inspire people not only professionally but also in a productive, mindful, and spiritual way. 🌱 This page is also part of our journey of learning and growth. We believe in the significance of contributing to others and touching their lives while developing ourselves. 🌟
+<p align="center">We, as SistersInCode, are two engineers aiming to share our knowledge and experiences that touch different aspects of life. 💻 While sharing our technical expertise in fields such as computer engineering, programming, data science, and artificial intelligence, we aspire to inspire people not only professionally but also in a productive, mindful, and spiritual way. 🌱 This page is also part of our journey of learning and growth. We believe in the significance of contributing to others and touching their lives while developing ourselves. 🌟</p>
 
 ✨ **Our Inspiration**  
 Our inspiration comes from the desire to help people grow and benefit them. Our primary goal is to share what we know, guiding anyone interested, and being a light to show the way. By integrating technology and science with our Islamic values, we aim to make our time valuable and fruitful for both this world and the hereafter. 🌍💡
@@ -34,17 +22,4 @@ Our inspiration comes from the desire to help people grow and benefit them. Our 
 👣 **Our Journey and Consulting Services**  
 On this journey, our goal is to make a positive impact on people’s lives through our knowledge and experience. In the future, we plan to offer personalized, paid consulting services not only in technical areas but also for those interested in studying abroad in the UK and Spain. Our consulting will cover everything from choosing the right university, applying for master’s programs, finding accommodation, navigating daily life, transportation, and adjusting to the social and cultural environment. With our firsthand experiences, we aim to guide those who wish to study abroad, providing support at every step of the way. For now, however, we focus on sharing knowledge and creating a platform where everyone can access information, find inspiration, and have the opportunity to grow. 🌟📘
 
----
-
-### 🧑‍💻 Who We Are?
-
-- **👩‍🎓 Melek Kuru**: I graduated from Başkent University with a degree in Computer Engineering in 2019. I completed my master’s degree in Data Science at the University of Essex in 2023-2024. 🎓
-
-- **👩‍🎓 Aysu Demir**: I also graduated from Başkent University in 2019 with a degree in Computer Engineering. I completed my master’s in Data Science at Barcelona School of Economics in 2021-2022. 🎓
-
----
-
-### 💫 Why Are We Here?
-
-Contributing to people’s development, inspiring them, and accompanying them on their journey is incredibly valuable to us. As SistersInCode, we embark on this path with a desire to grow ourselves while providing value to others. ✨ 
-
+</div>
